@@ -44,7 +44,7 @@ local COLOR_BUTTON_BG = 0x333333
 
 local balance = 0.0
 local currentScreen = "main"
-local BALANCE_FILE = "/home/balance.dat"
+local BALANCE_FILE = "/tmp/balance.dat"
 
 -- ============================================================================
 -- UTILITY FUNCTIONS
